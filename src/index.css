@@ -1,0 +1,7 @@
+.gif-list-container {
+  display: flex;
+}
+
+.gif-list-container > * {
+  flex: 1 1 100%;
+}
